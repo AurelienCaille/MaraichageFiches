@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: Vue
+    filters:
+      and:
+        - file.tags.contains("courge")
+    order:
+      - file.name

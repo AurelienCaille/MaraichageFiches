@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "18cc10a707713a02",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb0b1a7bfc357c5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eb3e7c3f5ed6de5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Plante.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Plante"
+            }
+          },
+          {
+            "id": "460ad74ffba2f6cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Plante.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plante"
+            }
+          },
+          {
+            "id": "e4378ad1d691a506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courge/Récolte des courges.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Récolte des courges"
+            }
+          },
+          {
+            "id": "e1f56a019296282e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Choux/Pet Saï.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pet Saï"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "9288c92455e75923",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42d2638391ae0db5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39e96e6d8bca313c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5a15dbbdeb11950",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e696bb49faba971",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "fa1c3b573b68e5a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "ff22a4831dd6d66f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "815c618774fa3668",
+    "type": "split",
+    "children": [
+      {
+        "id": "08a3b243c75e7ba5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee2a67026fce3554",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Choux/Pet Saï.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "7b66fee029e128a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Choux/Pet Saï.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "540032243d43b100",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "d5e279dca75813d2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "cd42174299471f69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Choux/Pet Saï.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer un nouveau canvas": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
+    }
+  },
+  "active": "e1f56a019296282e",
+  "lastOpenFiles": [
+    "Choux/Pak Choi.md",
+    "Choux/Pet Saï.md",
+    "Légumes feuilles/Epinards.md",
+    "Salades/Batavia.md",
+    "Salades/Romaine.md",
+    "Courge/Potimarron.md",
+    "Choux/Choux Kale.md",
+    "Choux/Choux fleurs.md",
+    "Choux/Choux.md",
+    "Choux/Brocoli.md",
+    "Sans titre.canvas",
+    "Courge/Courge.md",
+    "Courge/Butternut.md",
+    "Salades/Récolte des salades.md",
+    "Sans titre.base",
+    "Images/Pasted image 20261119115750.png",
+    "Salades/Mâche.md",
+    "templates/Récolte.md",
+    "Sans titre.md",
+    "Images/Romaine_lettuce_attention.jpg",
+    "Images/Romaine_lettuce.jpg",
+    "Images/Pasted image 20261119115140.png",
+    "templates/Plante.md",
+    "templates/Légumes  feuilles.md",
+    "templates/Légumes Feuilles.md",
+    "Légumes feuilles/Blettes.md",
+    "Images",
+    "Légumes feuilles/Plantation des feuilles.md",
+    "Choux",
+    "Légumes feuilles/Conservation des feuilles.md",
+    "Courge/Récolte des courges.md",
+    "Légumes feuilles",
+    "Pet Saï.md",
+    "Courge",
+    "Salades",
+    "templates"
+  ]
+}

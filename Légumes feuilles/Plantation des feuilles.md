@@ -1,0 +1,1 @@
+- Bien arroser si sol un peu sec (obligatoire en période chaude)
